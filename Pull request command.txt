@@ -1,1 +1,2 @@
 Pull request is used to merge thr another any one of the branch into the main branch.
+Pull request is based on Remote repository.
